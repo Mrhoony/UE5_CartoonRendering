@@ -10,8 +10,7 @@ UE5.5 Shader ToyProject<br>
 5. 뎁스버퍼 (DepthBuffer)
 6. 배면법V1 (BackSideV1, 2메쉬+1패스)
 7. 배면법V2 (BackSideV2, 1메쉬+1패스)
-~~8. 배면법V3 (BackSideV3, 1메쉬+2패스)~~
-9. 배면법Final (BackSideFinal, 1메쉬+1패스)
+8. 배면법V3 (BackSideV3, 1메쉬+1패스)
 <br>
 
 ---
