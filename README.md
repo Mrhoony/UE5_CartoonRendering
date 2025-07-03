@@ -1,6 +1,6 @@
 # UE5_CartoonRendering
 UE5.5 Shader ToyProject<br>
-※ 진행중인 프로젝트 ※
+기간 : 2025. 06. 14 ~ 진행 중
 
 ### 목차
 1. [계기](https://github.com/Mrhoony/UE5_CartoonRendering/tree/main?tab=readme-ov-file#%EA%B3%84%EA%B8%B0)
