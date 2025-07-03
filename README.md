@@ -34,7 +34,6 @@ UE5.5 Shader ToyProject<br>
 
 ### 결과물
 ![Image](https://github.com/user-attachments/assets/29617f40-9b0f-4ce5-9965-3be4ede73fc4)<br>
-모델 교체해서 다시 올릴 예정
 <br>
 
 ---
